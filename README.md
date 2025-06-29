@@ -24,8 +24,14 @@ A real-time Python-based project to detect driver drowsiness using facial landma
 
 Run Locally
 
-1. Clone the Repo
+## 👥 Team & Role
 
-```bash
+This was a group project built to detect driver drowsiness using computer vision and ML on Raspberry Pi.
+
+**My Role (Nichal Haas):**
+- Integrated face and eye detection using OpenCV and Haar cascades
+- Implemented ML logic for drowsiness detection on real-time camera feed
+- Calibrated detection parameters and optimized responsiveness on constrained Pi hardware
+
 git clone https://github.com/Nichal9651/StayAwake.git
 cd StayAwake
